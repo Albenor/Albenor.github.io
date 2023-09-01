@@ -50,6 +50,12 @@ TechLevel=-1
 [GAYARD]
 TechLevel=-1
 
+
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
+
 [NACNST]
 Radar=yes
 SpySat=yes
@@ -482,6 +488,11 @@ DominatorLevel=0.000000
 DominatorGround=0.000000
 DominatorAmbient=1.500000
 DominatorAmbientChangeRate=0.009000
+
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
 
 
 ;************     Map Terrian Pack       ***********
@@ -1775,6 +1786,11 @@ TechLevel=1
 PercentBuilt=0
 PlayerControl=no
 
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
+
 [Alliance]
 IQ=0
 Edge=North
@@ -1810,6 +1826,11 @@ NodeCount=0
 TechLevel=1
 PercentBuilt=0
 PlayerControl=no
+
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
 
 [British]
 IQ=0
@@ -1859,6 +1880,11 @@ TechLevel=1
 PercentBuilt=0
 PlayerControl=no
 
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
+
 [Russians]
 IQ=0
 Edge=North
@@ -1894,6 +1920,11 @@ NodeCount=0
 TechLevel=1
 PercentBuilt=0
 PlayerControl=no
+
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
 
 [Nod]
 IQ=0
@@ -1933,6 +1964,10 @@ PlayerControl=no
 
 
 ;************    Map Waypoints Config    ***********
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
 [Waypoints]
 0=79026
 1=101049
@@ -1958,6 +1993,9 @@ PlayerControl=no
 
 ;************   Map Terrain Placement    ***********
 [Terrain]
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
 15074=TIBTRE01
 15077=TIBTRE01
 15080=TIBTRE01
@@ -2025,6 +2063,10 @@ PlayerControl=no
 
 
 ;************       Other Settings       ***********
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
 [FA2spVersionControl]
 Version=3
 
@@ -2032,3 +2074,7 @@ Version=3
 ;************       Map SHA1 hash        ***********
 [Digest]
 1=DbpAC0fdHlutQdEkRBYPGzMOtAU=
+; Map created with FinalAlert 2(tm) Mission Editor
+; Get it at http://albenor.github.io
+;Code with Chen'nor(Java16)
+
