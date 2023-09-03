@@ -5,6 +5,17 @@
 **This is the Github homepage of Albenor's map work, if you do not use the domain: Albenor.github.io to download maps, you can also use this Github source page, but it is not recommended.**
 
 ------------
+###  下载地图：
+[科技一小快地：][科技一小快地：]
+
+
+[科技一小快地：]: https://wwop.lanzoul.com/iany517b1qif "科技一小快地："
+如果苏军与盟军都获得了科技加强会怎样？
+灰熊坦克变成了适合游击战的隐形光凌坦克；苏军的犀牛坦克则变成了重装坦克，发射天启的105mm炮弹！入侵者与黑鹰都获得了加强。开局还可以建造油田，油田自带全球视野属性。航母的舰载机也获得了加强，可以来回投射3次。还有更多的部队获得了加强！快去下载试试吧！
+
+
+========
+
 
 [V3一块地：]: https://wwop.lanzoul.com/iFHQ717axsid "V3一块地："
 V3导弹射程接近全图；无法制造高科技与海军，飞行兵限制建造30个。
@@ -78,6 +89,5 @@ V3导弹射程接近全图；无法制造高科技与海军，飞行兵限制建
 
 [抢地盘：]: https://wwop.lanzoul.com/ispcb17b1iih "抢地盘："
 这是我们副社长（Java16，也叫Chen'nor）的第一张地图，开局每人都会有一根矿柱或者一个油田，物资很稀缺，钱也很少，利用你们仅有的资源获胜吧！
-
 
 
